@@ -55,10 +55,10 @@ Estrutura do Projeto
 sistema-notas/
 └── notas.py
 
-Projeto Autoral
+## Projeto Autoral
 Projeto desenvolvido por Raphael de Oliveira.
 
 Contato
-LinkedIn: linkedin.com/in/raphaeloliduarte
+**LinkedIn:** linkedin.com/in/raphaeloliduarte
 
-GitHub: github.com/raphaeloliduarte
+**GitHub:** github.com/raphaeloliduarte
